@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { Link } from "react-scroll";
 // Assets
-import LogoImg from "C:/Users/jayde/my-app/src/components/Sections/og-image-consumer.png";
+import LogoImg from "../../assets/img/og-image-consumer.png";
 
 export default function Contact() {
 
